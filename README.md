@@ -9,7 +9,7 @@ The main purpose of this repository is to show my practical learning progress an
 
 This is not a polished textbook or a formal course.
 
-It is a personal learning portfolio where I document what I learn while studying cybersecurity. The notes are written during university lectures, hands-on practice, labs and rooms.
+It is a personal learning portfolio where I document what I learn while studying cybersecurity. The notes are written during university lectures, hands-on practice, labs and rooms. They were originally not intended for public use, but I review and publish them here as part of my learning progress.
 
 ## Language Note
 
