@@ -1,4 +1,4 @@
-# Cybersecurity Proof of Work
+# Cybersecurity Learning Progress
 This repository is my personal proof-of-work portfolio for cybersecurity learning.
 
 It documents my notes in different areas and progress in PortSwigger and TryHackMe.
