@@ -22,7 +22,8 @@ This reflects my real learning process, as I study cybersecurity concepts from d
 My TryHackMe progress mainly focuses on SOC fundementals.
 
 ## PortSwigger Web Security Academy Progress
-<img width="754" height="451" alt="PortSwiggerProgress" src="https://github.com/user-attachments/assets/31e843fe-2ed5-4f07-9ac0-6b940402c5f5" />
+<img width="751" height="452" alt="Bildschirmfoto 2026-06-27 um 16 19 14" src="https://github.com/user-attachments/assets/30584cf1-5caf-4a99-be5f-96ccdd1c1e40" />
+
 
 ## Purpose
 
