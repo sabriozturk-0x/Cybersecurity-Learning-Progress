@@ -31,8 +31,6 @@ My TryHackMe progress mainly focuses on security operation fundementals.
 This repository is intended to demonstrate:
 
 * My practical cybersecurity learning progress
-* My ability to document technical topics
-* Hands-on exposure to cybersecurity tools
 * Lab-based learning and problem solving
 * Continuous improvement through structured self-study
 
