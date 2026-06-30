@@ -18,7 +18,7 @@ My notes may be written in a mix of **English, German and Turkish**.
 This reflects my real learning process, as I study cybersecurity concepts from different sources and often write notes in the language that is most practical for me at that moment.
 
 ## TryHackMe Progress
-<img width="425" height="226" alt="Bildschirmfoto 2026-06-26 um 18 26 59" src="https://github.com/user-attachments/assets/90625a5c-0e04-4f91-b079-90e6360210ae" />
+<img width="419" height="224" alt="Bildschirmfoto 2026-06-30 um 14 57 05" src="https://github.com/user-attachments/assets/64da2c9f-c115-468c-b125-80053150ef0d" />
 
 My TryHackMe progress mainly focuses on security operation fundementals.
 
